@@ -1,4 +1,2 @@
 # BERT-Master
-Code for finetuning BERT
-
-Fine-tuning of any BERT model for PICO sentence classification. Classifies PICOS, and aslo aim, methods, results and conclusions plust assignment of multiple tags per sentence.
+Code for finetuning BERT models for PICO sentence classification. Returns probabilities for PICOS, and also aim, methods, results and conclusions for each sentence in an abstract.
